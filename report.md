@@ -12,3 +12,9 @@ Durante la primera parte del laboratorio se realizaron diferentes actividades pa
 - **Evidencia 3:** Creación de una rama, modificación de archivos y fusión de cambios mediante `merge`.
 - **Evidencia 4:** Repositorio `git-practice` en GitHub con el historial de commits.
 - **Evidencia 5:** Sincronización de los cambios realizados en GitHub con el repositorio local mediante `git pull`.
+
+## Reflexión
+
+### Q1. ¿Es conveniente utilizar el control de versiones para documentos que no contienen código?
+
+Sí, porque permite guardar diferentes versiones de un documento y consultar los cambios realizados. Durante la práctica utilizamos Git para registrar las modificaciones de un archivo Markdown mediante commits. Una ventaja es que podemos identificar fácilmente qué líneas se agregaron o eliminaron. En cambio, con los documentos de Word, Git no permite visualizar los cambios de la misma manera debido a su formato. Por eso, Markdown es una buena opción para trabajar con documentos utilizando Git.
